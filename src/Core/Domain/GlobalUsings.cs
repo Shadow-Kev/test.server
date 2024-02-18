@@ -1,0 +1,1 @@
+﻿global using test.server.Domain.Common.Contracts;
